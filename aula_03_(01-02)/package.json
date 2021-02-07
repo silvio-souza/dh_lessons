@@ -1,0 +1,14 @@
+{
+  "name": "aula_01-02",
+  "version": "1.0.0",
+  "description": "Aula do dia 01/02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Silvio Souza",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
