@@ -1,0 +1,11 @@
+{
+  "name": "desafio_aula_05",
+  "version": "1.0.0",
+  "description": "Desafio Aula 05 - Temos que pegar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Silvio Souza",
+  "license": "MIT"
+}
