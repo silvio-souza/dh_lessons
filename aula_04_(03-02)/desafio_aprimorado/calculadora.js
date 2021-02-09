@@ -1,8 +1,8 @@
 const operacoes = require('./operacoes')
 
-let numeroA = -1;
-let numeroB = 0;
-let zero = 0;
+let numeroA = 4;
+let numeroB = 2;
+const zero = 0;
 
 console.log("=== DESAFIO DH AULA 04 ===")
 //Parte II.2
