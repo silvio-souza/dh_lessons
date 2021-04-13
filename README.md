@@ -19,3 +19,5 @@ Materiais das aulas do curso de Full Stack da Digital House
 - Aula 17: Express - Padrão MVC
 - Aula 18: Express - EJS
 - Aula 19: Revisão e React(primeiro contato)
+- Aula 20: Formularios / CRUD
+- Aula 21: Arquivos / Multer
