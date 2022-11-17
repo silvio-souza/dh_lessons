@@ -1,4 +1,5 @@
 Materiais das aulas do curso de Full Stack da Digital House
+.
 
 - Aula 01: Introdução ao curso
 - Aula 02: Ferramentas
